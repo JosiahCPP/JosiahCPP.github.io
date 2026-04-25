@@ -45,19 +45,19 @@ title: Home
   </div>
   <div class="stats-grid">
     <div class="stat">
-      <div class="stat-number">12</div>
+      <div class="stat-number">0</div>
       <div class="stat-label">Publications</div>
     </div>
     <div class="stat">
-      <div class="stat-number">4</div>
+      <div class="stat-number">0</div>
       <div class="stat-label">Open-Source Tools</div>
     </div>
     <div class="stat">
-      <div class="stat-number">7</div>
+      <div class="stat-number">0</div>
       <div class="stat-label">Industry Partners</div>
     </div>
     <div class="stat">
-      <div class="stat-number">3</div>
+      <div class="stat-number">0</div>
       <div class="stat-label">Active Grants</div>
     </div>
   </div>
