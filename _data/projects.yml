@@ -1,20 +1,30 @@
-- name: "Open Research Toolkit"
-  description: "A reproducible pipeline for data ingestion, experiment tracking, and paper-ready plots."
-  role: "Lead developer"
+- name: "Text-Free Detection of Laundry-Care Symbols on Garment Tags"
+  description: "Deep learning pipeline for detecting laundry-care symbols without relying on text recognition."
+  role: "Undergraduate Researcher"
   highlights:
-    - "Reduced experiment setup time from days to hours with standardized configs."
-    - "Automated LaTeX table and figure export for manuscripts."
-  tech: ["Python", "Docker", "MLflow"]
+    - "Trained YOLOv11, YOLOv12, and RF-DETR on ~12K-image dataset (49 classes)."
+    - "Achieved 97% mAP while removing dependency on OCR/text pipelines."
+    - "Improved robustness for edge AI and smart-home applications."
+  tech:
+    - Python
+    - PyTorch
+    - YOLO
+    - Computer Vision
   links:
     github: "#"
-    demo: "#"
 
-- name: "Human-in-the-Loop Annotation Studio"
-  description: "Web app for rapid labeling with active learning and quality controls."
-  role: "Full-stack engineer"
+- name: "Event-Based Foveal Vision for Reinforcement Learning"
+  description: "Bio-inspired reinforcement learning system using event-based camera input for efficient perception."
+  role: "Undergraduate Researcher"
   highlights:
-    - "Integrated uncertainty sampling and reviewer workflows."
-  tech: ["TypeScript", "React", "FastAPI"]
+    - "Built Deep Q-Network (DQN) agent for Pong environment."
+    - "Integrated SilkyEv3 event camera data for real-time motion tracking."
+    - "Developed preprocessing pipeline for noise filtering and centroid tracking."
+    - "Explored multi-resolution vision for computational efficiency in RL."
+  tech:
+    - Python
+    - PyTorch
+    - Reinforcement Learning
+    - Event Cameras
   links:
     github: "#"
-    paper: "#"
