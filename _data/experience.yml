@@ -1,19 +1,35 @@
-- role: "Research Intern"
-  org: "Example Research Lab"
-  start: "Jun 2025"
-  end: "Aug 2025"
-  location: "Remote"
-  summary: "Worked on retrieval-augmented generation for scientific writing assistants."
+- role: Undergraduate Researcher
+  org: Reconfigurable Space Computing Lab (NASA Minds Project)
+  start: October 2023
+  end: May 2025
+  location: Pomona, CA
+  summary: Led AR-enhanced drone telescope project for autonomous celestial tracking.
   bullets:
-    - "Built a benchmark suite for literature grounding."
-    - "Improved retrieval accuracy by 18% over baseline."
+    - Built Raspberry Pi system using OpenCV for real-time celestial detection.
+    - Developed AR overlays for star map visualization.
+    - Delivered working prototype for NASA Artemis-related research.
 
-- role: "Graduate Research Assistant"
-  org: "Your University"
-  start: "Sep 2022"
-  end: "Present"
-  location: "City, Country"
-  summary: "Focus on machine learning systems and human-AI collaboration."
+- role: Teaching Associate - Microcontrollers Lab
+  org: Cal Poly Pomona - ECE Department
+  start: January 2026
+  end: Present
+  location: Pomona, CA
+  summary: Instructor for embedded systems lab using PIC18 microcontrollers.
   bullets:
-    - "Led a team of 3 on dataset curation and evaluation."
-    - "Published 2 first-author papers in top venues."
+    - Led labs on embedded C and hardware interfacing.
+    - Helped students debug microcontroller circuits and code.
+    - Graded assignments and provided technical feedback.
+
+- role: Member - IEEE Student Chapter
+  org: Cal Poly Pomona
+  start: March 2022
+  end: Present
+  location: Pomona, CA
+  summary: Active participant in engineering events and workshops.
+
+- role: Member - Computer Science Society
+  org: Cal Poly Pomona
+  start: March 2022
+  end: Present
+  location: Pomona, CA
+  summary: Participated in coding events and technical seminars.
